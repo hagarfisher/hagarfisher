@@ -2,10 +2,9 @@
 
 
 
-- 🌱 I’m currently learning Next.js  
-  
 
-- ⚡ Fun fact: I use tabs over spaces  
+- 🌱 I’m currently learning Next.js  
+   
   
 
 <br/>  

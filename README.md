@@ -57,24 +57,15 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagarfisher&hide_border=true&layout=compact" align="center" /></div>  
+ 
+ <div align="center">
+    
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hagarfisher&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
 
 
-<br />
+
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
